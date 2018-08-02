@@ -1,3 +1,2 @@
 # hello-world
-My first repository
-i am learning!
+ekaan projektiin muutoksia
